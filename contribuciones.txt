@@ -1,0 +1,18 @@
+Contribuciones del trabajo
+
+Parte 1
+¿Qué es code review? -Juan    Utilidades y beneficios de code review -Juan
+Definiciones -Alberto    Ejemplo real -Alberto
+
+Parte 2
+Creación de repositorio, añadir archivo basico y añadir colaboradores a repositorio -Juan
+Creación de fork, rama, modificación de archivo -Alberto
+Revisión y solución del merge -Juan
+
+Parte 3
+Conclusión 1 -Juan
+Conclusión 2 -Alberto
+
+Edición del video
+Edición de los clips -Juan
+Recolección de recursos para usar en el video -Alberto
